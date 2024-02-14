@@ -1,0 +1,41 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /workspaces/test/target/scala-2.12/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /workspaces/test/target/scala-2.12/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SkewedDataGenerator$Key.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SkewedDataGenerator$Key$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Config$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RunBenchmark.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniformDataGenerator$Key$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SortMergeJoinType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NormalJoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataGenerator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniformDataGenerator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Config.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SortMergeJoinType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniformDataGenerator$KeyLabel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniformDataGenerator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SkewedDataGenerator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniformDataGenerator$KeyLabel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IterativeBroadcastJoin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RunBenchmark$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IterativeBroadcastJoinType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkUtil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SkewedDataGenerator$KeyLabel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JoinType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SkewedDataGenerator$KeyLabel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RunBenchmark$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JoinStrategy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniformDataGenerator$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataGenerator$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SkewedDataGenerator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkUtil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IterativeBroadcastJoinType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NormalJoin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniformDataGenerator$Key.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IterativeBroadcastJoin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SkewedDataGenerator$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /workspaces/test/target/scala-2.12/classes.bak[0m
